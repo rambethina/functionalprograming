@@ -1,0 +1,19 @@
+{
+  "name": "functionalprograming",
+  "version": "1.0.0",
+  "description": "functional programming",
+  "main": "box.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rambethina/functionalprograming.git"
+  },
+  "author": "Ram Bethina <ram.bethina@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rambethina/functionalprograming/issues"
+  },
+  "homepage": "https://github.com/rambethina/functionalprograming#readme"
+}
