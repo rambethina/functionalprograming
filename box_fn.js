@@ -24,3 +24,7 @@ const nextCharForNumberString = str =>
 const result = nextCharForNumberString(' 64 ')
 
 console.log(result)
+
+//Take aways
+// Removed state from function. (no more variable declarations)
+// created flow
