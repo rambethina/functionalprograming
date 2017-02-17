@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rambethina/functionalprograming/issues"
   },
-  "homepage": "https://github.com/rambethina/functionalprograming#readme"
+  "homepage": "https://github.com/rambethina/functionalprograming#readme",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
 }
