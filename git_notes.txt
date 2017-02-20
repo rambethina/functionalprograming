@@ -1,3 +1,11 @@
 git log --oneline
 git log --graph
 git log --stat
+
+to compare our local against master
+git log origin/master..
+
+//branch name we want to rebase of.
+git rebase -i origin/master
+
+git rebase --abort
